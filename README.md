@@ -37,3 +37,4 @@ Choose build directory in cmake gui
 
 
 
+Hello world from old desktop
